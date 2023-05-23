@@ -1,7 +1,7 @@
 <template>
   <section
     id="project"
-    class="bg-[#202020] pb-[100px] sm:pb-[162px] font-[Poppins]"
+    class="bg-[#202020] pb-[100px] px-[30px] sm:pb-[162px] font-[Poppins]"
   >
     <div class="flex flex-col items-center">
       <h1
@@ -12,7 +12,7 @@
       <div class="w-[65px] bg-[#13ff00] h-1 rounded-md"></div>
       <!-- here card div starts -->
       <div
-        class="card-wrapper container grid grid-cols-3 justify-center flex-wrap mt-[67px] gap-2 sm:gap-5"
+        class="card-wrapper container gap-y-[30px] grid md:grid-cols-3 justify-center flex-wrap mt-[67px] gap-2 sm:gap-5"
       >
         <!-- card number 1 -->
         <div
@@ -71,7 +71,7 @@
         >
           <div>
             <img src="../assets/images/pr1.png" alt="project1" />
-            <h1 class="text-xl p-10  text-white font-bold">Aytma</h1>
+            <h1 class="text-xl p-10 text-white font-bold">Aytma</h1>
           </div>
           <div class="p-6">
             <div class="flex items-center mt-2 mb-8">
