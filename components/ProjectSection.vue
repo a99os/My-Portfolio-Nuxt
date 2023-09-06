@@ -18,11 +18,10 @@
         <div
           class="card flex flex-col bg-[#272727] shadow-lg overflow-hidden rounded-[18px]"
         >
-          <img src="../assets/images/pr2.png" alt="project1" />
+          <img src="../assets/images/pr4.png" alt="project1" />
           <div class="p-6">
             <h1 class="text-xl text-white font-bold">
-              VIPAIRASSIST provides customised assistance with meet and greet,
-              transfers, baggage handling, and more.
+              “Prolegals Law” Yuridik konsalting kompaniyasi
             </h1>
             <div class="flex items-center mt-2 mb-8">
               <i class="bx bx-code-alt text-[#13ff00] text-4xl"></i>
@@ -30,7 +29,7 @@
             </div>
             <div class="flex justify-center">
               <a
-                href="https://vip-air-front-end2.vercel.app/"
+                href="https://prolegals.uz/"
                 target="_blank"
                 class="py-1 sm:py-2 text-md hover:bg-cyan-500 sm:text-lg px-4 sm:px-9 rounded-md sm:rounded-xl bg-[#13ff00]"
               >
@@ -56,7 +55,7 @@
             </div>
             <div class="flex justify-center">
               <a
-                href="https://anora-project.vercel.app"
+                href="https://anoratalks.uz/"
                 target="_blank"
                 class="py-1 sm:py-2 text-md hover:bg-cyan-500 sm:text-lg px-4 sm:px-9 rounded-md sm:rounded-xl bg-[#13ff00]"
               >
